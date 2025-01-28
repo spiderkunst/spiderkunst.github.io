@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+{
+    /* Allows for a more natural sizing system */
+    box-sizing: border-box;
+}
+h1, h2{
+    color:rgb(0, 0, 0);
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px; ;
+}
+img{
+    width: 50%;
+    padding: 20px 20px 50px 500px;
+        
+}
+body{
+    background-color: rgb(200, 172, 217);
+
+}
+p{
+    text-align: center;
+    font-size: 25px;
+}
+
+nav{
+    display: grid;
+    gap:1em;
+
+}
